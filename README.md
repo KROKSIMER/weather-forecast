@@ -1,2 +1,2 @@
 # weather-forecast
-Simple weahter app
+Simple weather app
